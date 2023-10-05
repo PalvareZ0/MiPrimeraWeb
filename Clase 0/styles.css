@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+h1 {
+    margin: 20px;
+}
+
+h2 {
+    margin: 40px;
+}
+
+h3 {
+    margin: 50px;
+}
+
+h4 {
+    margin: 55px;
+}
+
+h5 {
+    margin: 60px;
+}
+
+h6 {
+    margin: 63px;
+}
+
+
+
+.rojo {
+    color: red
+}
+.naranja {
+    color: orange
+}
+.amarillo {
+    color: yellow
+}
+.verde {
+    color: green
+}
+.azul { 
+    color: blue
+}
+.violeta {
+    color: violet
+}
+.negro {
+    color: black
+}
+.blanco {
+    color: white
+}
+.marron {
+    color: brown
+}
+.gris {
+    color: gray
+}
+.olive {
+    color: olive
+}
+.rosa {
+    color: pink
+}
+.purpura {
+    color: purple
+}
+.lima {
+    color: yellowgreen
+}
+.celeste {
+    color: lightblue
+}
+#resaltar {
+    background: yellow
+}
